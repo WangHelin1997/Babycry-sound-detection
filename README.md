@@ -1,5 +1,5 @@
 # Babycry-sound-detection
-PyTorch implementations of neural network models for Babycry sound detection, including training process and test demo. Based on DCASE2017 Task2: Detection of rare sound events.
+PyTorch implementations of neural network models for Babycry sound detection, including training process and test demo. Based on DCASE2017 Task2: Detection of rare sound events. Our model is based on CDNN.
 
 ## DCASE2017 Baseline
 You can use the baseline model or generate data:
